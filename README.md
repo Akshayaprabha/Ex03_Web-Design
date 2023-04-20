@@ -27,7 +27,64 @@
 ## CODE
 
 
+<html>
+<head>
+<title>slot timetable</title>
+</head>
+<body>
+<img src="saveethalogo.png"width="1000" height="150" align="center">
+<h1 style="text-align:center">SLOT TIME TABLE- AKSHAYA P(212222250001)</h1>
+<table border=1px solid black width="100%">
+<tr style="background-color:cyan">
+<th>Day/Time</th>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+</tr>
+<tr style="background-color:yellow">
+<td style="background-color:cyan">8-10</td>
+<td>COMPLEX VARIABLES & DIFFERENTIAL EQUATIONS</td>
+<td>WEB DESIGNING</td>
+<td>STRENGTH OF MATERIALS</td>
+<td>ENGINEERING PHYSICS</td>
+<td>COMPLEX VARIABLES & DIFFERENTIAL EQUATIONS</td>
+</tr>
+<tr style="background-color:yellow">
+<td style="background-color:cyan">10-12</td>
+<td>ELECTRICAL MACHINES & POWER UTILIZATION</td>
+<td>FREE SLOT</td>
+<td>FREE SLOT</td>
+<td>THEORY OF MACHINES</td>
+<td>STRENGTH OF MATERIALS</td>
+</tr>
+<tr style="background-color:yellow">
+<td style="background-color:cyan">12-1</td>
+<td colspan="5" align="center">LUNCH</td>
+</tr>
+<tr style="background-color:yellow">
+<td style="background-color:cyan">1-3</td>
+<td>IRRIGATION & DRAINAGE ENGINEERING</td>
+<td>IRRIGATION & DRAINAGE ENGINEERING</td>
+<td>ENGINEERING PHYSICS</td>
+<td>PRINCIPLES OF SOIL SCIENCE</td>
+<td>PRINCIPLES OF HORTICULTURE</td>
+</tr>
+<tr style="background-color:yellow">
+<td style="background-color:cyan">3-5</td>
+<td>PRINCIPLES OF HORTICULTURE</td>
+<td>PRINCIPLES OF SOIL SCIENCE</td>
+<td>FREE SLOT</td>
+<td>ELECTRICAL MACHINES & POWER UTILIZATION</td>
+<td>WEB DESIGNING</td>
+</tr>
+</table>
+</body>
+</html>
+
 ## OUTPUT
+![WDIA EXP NO 3 OUTPUT](https://user-images.githubusercontent.com/127816387/233418856-99009937-ec38-4384-8627-e3a86bf2250d.jpg)
 
 
 ## RESULT
